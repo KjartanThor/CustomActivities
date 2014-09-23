@@ -19,7 +19,6 @@ namespace TfsBuildExtensions.Activities
     {
         private InArgument<bool> logExceptionStack = true;
 
-
         /// <summary>
         /// Set to true to fail the build if the activity logs any errors. Default is false
         /// </summary>
